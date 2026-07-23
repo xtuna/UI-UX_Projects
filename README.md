@@ -52,8 +52,8 @@ virtual-pagibig-redesign/
 ## Links
 
 - Figma file: *[paste your Figma project link here once created]*
-- Live prototype (App): *[[paste Figma prototype share link]](https://www.figma.com/proto/wIVFDs7jI4js999xdXnrfL/Virtual-Pag-IBIG-Redesign?node-id=192-797&t=7LXYQ8kIkVAbdMOB-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=192%3A797&show-proto-sidebar=1)*
-- Live prototype (Web): *[[paste Figma prototype share link]](https://www.figma.com/proto/wIVFDs7jI4js999xdXnrfL/Virtual-Pag-IBIG-Redesign?node-id=82-1563&t=7LXYQ8kIkVAbdMOB-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=82%3A1563&show-proto-sidebar=1)*
+- Live prototype (App): *[[Mobile]](https://www.figma.com/proto/wIVFDs7jI4js999xdXnrfL/Virtual-Pag-IBIG-Redesign?node-id=192-797&t=7LXYQ8kIkVAbdMOB-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=192%3A797&show-proto-sidebar=1)*
+- Live prototype (Web): *[[Desktop]](https://www.figma.com/proto/wIVFDs7jI4js999xdXnrfL/Virtual-Pag-IBIG-Redesign?node-id=82-1563&t=7LXYQ8kIkVAbdMOB-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=82%3A1563&show-proto-sidebar=1)*
 
 ## Sources Cited in Research
 
