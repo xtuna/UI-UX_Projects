@@ -12,7 +12,7 @@ A UX research–driven redesign of the **Virtual Pag-IBIG** website (`pagibigfun
 |---|---|
 | **Product** | Virtual Pag-IBIG — website + mobile app |
 | **Role** | UX/UI Designer (solo) |
-| **Duration** | *[fill in — e.g., "3 weeks, July 2026"]* |
+| **Duration** | 3 weeks, July 2026 |
 | **Tools** | Figma, FigJam, Google Forms, GitHub |
 | **Deliverables** | Heuristic evaluation, personas, journey map, storyboard, sitemap, wireframes, design system, hi-fi mockups, clickable prototype |
 
