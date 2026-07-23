@@ -6,7 +6,7 @@ A UX research–driven redesign of the **Virtual Pag-IBIG** website (`pagibigfun
 
 ---
 
-## 📌 Project Summary
+## Project Summary
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ A UX research–driven redesign of the **Virtual Pag-IBIG** website (`pagibigfun
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 virtual-pagibig-redesign/
@@ -42,20 +42,20 @@ virtual-pagibig-redesign/
 └── .gitignore
 ```
 
-## 🚀 How to Use This Repo
+## How to Use This Repo
 
 1. Read [`PROJECT-PLAN.md`](./PROJECT-PLAN.md) first — it's the master checklist with every step in order.
 2. Work through `docs/01` → `docs/07` in order. Each doc is a self-contained work session.
 3. As you produce Figma exports (wireframes, mockups), save PNGs into the matching `assets/` subfolder and commit them — this keeps your process visible in GitHub, not just the final result.
 4. Once done, `docs/07-case-study-template.md` shows you how to turn all of this into a polished, portfolio-ready write-up (either as this README's expanded version, or a separate page on Behance/Notion linking back to this repo).
 
-## 🔗 Links
+## Links
 
 - Figma file: *[paste your Figma project link here once created]*
-- Live prototype (App): *[paste Figma prototype share link]*
-- Live prototype (Web): *[paste Figma prototype share link]*
+- Live prototype (App): *[[paste Figma prototype share link]](https://www.figma.com/proto/wIVFDs7jI4js999xdXnrfL/Virtual-Pag-IBIG-Redesign?node-id=192-797&t=7LXYQ8kIkVAbdMOB-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=192%3A797&show-proto-sidebar=1)*
+- Live prototype (Web): *[[paste Figma prototype share link]](https://www.figma.com/proto/wIVFDs7jI4js999xdXnrfL/Virtual-Pag-IBIG-Redesign?node-id=82-1563&t=7LXYQ8kIkVAbdMOB-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=82%3A1563&show-proto-sidebar=1)*
 
-## 📚 Sources Cited in Research
+## Sources Cited in Research
 
 - ARTA Top 10 Most Complained GOCCs — https://tribune.net.ph/2026/05/05/lto-sss-top-most-complained-about-government-agencies
 - Pag-IBIG Online System and Posting Errors, Respicio & Co. — https://www.respicio.ph/commentaries/how-to-resolve-pag-ibig-online-system-and-posting-errors
